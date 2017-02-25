@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.wicket:wicket-ioc:8.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-ioc/8.0.0-SNAPSHOT/wicket-ioc-8.0.0-20170223.144110-483.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-ioc/8.0.0-SNAPSHOT/wicket-ioc-8.0.0-20170223.144110-483-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-ioc/8.0.0-SNAPSHOT/wicket-ioc-8.0.0-20170223.144110-483-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
